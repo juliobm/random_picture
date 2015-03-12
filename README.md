@@ -12,3 +12,5 @@ You must change in the python script  random_picture.py:
 
 Obviously you must change too, the Id user to send by Telegram in the telegram.sh file
 
+And finally put the scripts in your crontab (programmed tasks)
+
