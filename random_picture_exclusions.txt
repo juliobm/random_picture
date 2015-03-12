@@ -1,0 +1,2 @@
+/dir_exclude1
+/photos/dir_exclude2
