@@ -1,13 +1,14 @@
 # random_picture
 Send a random picture from your stock by Telegram
 
-Select a picture from your pictures, and sending it by Telegram to your family.
+Select a picture from your photo stock, and send it by Telegram to your family!
+Perhaps the most rewarding script that I made.
 
-You must change in the python script:
+You must change in the python script  random_picture.py:
 - name of selected picture
 - where you have your photos
 - where you save the log file
-- name of the file that contains the directories to exclude from random search
+- where you save the file that contains the directories to exclude from random search
 
-Obviously you must change too, the Id uses to send by Telegram in the .sh file
+Obviously you must change too, the Id user to send by Telegram in the telegram.sh file
 
